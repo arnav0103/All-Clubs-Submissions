@@ -1,5 +1,7 @@
 ## This is my submission for the Coding Club Recruitment
 
+For Task 1 the notebook shows invalid for some reason on github please download the notebook and see
+
 For Task 2 three API keys need to be put in the .env file <br><br>
 
   -**GOOGLE_API_KEY** (https://aistudio.google.com/prompts/new_chat)<br>
